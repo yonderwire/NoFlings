@@ -4,7 +4,7 @@
   <a href="#getting-started">Getting Started</a> 
 </p>
 <h2 align="center">
-  <img src="heart_1.png" alt="Logo" width="90">
+  <img src="heart_2.png" alt="Logo" width="90">
   </br>No Flings
   </br><img src="Logo_4.png" alt="Logo" width="80">
 </h2>
