@@ -6,7 +6,7 @@
 <h2 align="center">
   <img src="heart_1.png" alt="Logo" width="90">
   </br>No Flings
-  </br><img src="Logo_4.png" alt="Logo" width="80">
+  </br><img src="Logo_4.png" alt="Logo" width="60">
 </h2>
 
 NoFlings is a dating App that uses psychology and astrology to connect individuals looking for real love.
