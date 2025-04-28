@@ -1,11 +1,12 @@
+<h3 align="center">No Flings</h3>
 <p align="center">
   <a href="#key-features">Key Features</a> &nbsp; | &nbsp;
   <a href="#branches">Branches</a> &nbsp; | &nbsp;
   <a href="#getting-started">Getting Started</a> 
 </p>
 <h2 align="center">
-  <img src="heart_1.png" alt="Logo" width="90">
-  </br>No Flings
+<!--   <img src="heart_1.png" alt="Logo" width="90"> -->
+   <img src="https://repository-images.githubusercontent.com/530891195/eb2861ab-34cd-465a-bd22-0a83f9a03b6e" alt="Logo" width="450">
   </br><img src="Logo_4.png" alt="Logo" width="60">
 </h2>
 
